@@ -1,0 +1,36 @@
+.container {
+  background: aliceblue;
+}
+
+.title-container {
+  font-size: 1.5rem;
+}
+
+.heading {
+  padding: 10px;
+}
+
+.message {
+  padding: 10px;
+}
+
+.selection-box {
+  font-size: 1.2rem;
+}
+
+.selection-box input {
+  margin: 10px;
+}
+
+.search-box {
+  padding: 20px;
+  color: red;
+}
+
+.search-box input {
+  padding-left: 15px;
+  width: 200px;
+  height: 30px;
+  border-radius: 30px;
+  border: 1px solid black;
+}
